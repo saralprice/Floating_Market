@@ -1,12 +1,12 @@
 body {
-    background-color: #404040;
+    background-color: white;
 }
 h1 {
-    color: white;
+    color: gray;
 }
 p {
-    color: white;
+    color: black;
 }
 span {
-	color: white;
+	color: black;
 }
